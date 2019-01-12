@@ -1,5 +1,5 @@
 ---
-title: My Second Post
+title: Second Post
 ---
 Line 1 - Hey, looks like I'm getting the hang of this. 
 Line 2 - Hey, looks like I'm getting the hang of this. 
